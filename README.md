@@ -57,5 +57,3 @@ Finding out about Plex has sparked my Homelab journey about 4 years ago and I ha
 # Service Status
 I monitor all my critical services with Node Exporter installed on every LXC container I use. By simply using the `up` metric from Node Exporter I can view the status of my services. Next to this I also run an Uptime Kuma status page and an external Hetrix Tools monitoring page to monitor all my critical and non critical services.
 
-# And that's it!
-Any questions you might are more than welcome and I'll do my best to answer them all as best as I can. You can reach out to me through my Discord @ Tehlo#0001
