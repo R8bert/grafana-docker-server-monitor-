@@ -1,4 +1,4 @@
-# HomeDashboardv3
+# Home Server Monitoring
 
 ![Dashboard](https://i.tehlo.wtf/fQZf3Kp.png)
 
